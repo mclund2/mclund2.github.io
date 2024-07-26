@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mmclund2.github.io//sitemap.xml
+Sitemap: https://mclund2.github.io//sitemap.xml
